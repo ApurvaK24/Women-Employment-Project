@@ -16,3 +16,38 @@ No website like this is present in the market in today’s scenario according to
 
 # What's next for Aarambhika - A platform for women to restart their career.
 Our target is to reach out to all women country wide irrespective of the language barrier. So in future we would surely like to convert our project in all possible regional languages so every women can use it. We also want to provide free courses to women so that using those courses women can get professionalemployement and a chance to learn new skills irrespective of their education and age. Thus this is our main motive to make every women stand on their own feet and get employed.
+
+#Snippets
+![image](https://github.com/user-attachments/assets/384269a1-1bfa-4061-9016-c606180078dc)
+
+![image](https://github.com/user-attachments/assets/a175a2a6-38fe-4edb-8431-38f0d92e5eb1)
+
+![image](https://github.com/user-attachments/assets/03ac978d-ac7c-41eb-a742-34f6b2f7ab9a)
+
+![image](https://github.com/user-attachments/assets/743dd0b2-a395-47ba-94f4-aacf4b0e8d77)
+
+![image](https://github.com/user-attachments/assets/6ae2eb53-0e48-4f1a-a081-01324f401bae)
+
+![image](https://github.com/user-attachments/assets/57b3d2de-3377-4861-ac66-7a088ace8627)
+
+![image](https://github.com/user-attachments/assets/98ce1c63-a767-4d73-ae22-2b948109fe63)
+
+![image](https://github.com/user-attachments/assets/1245bbe6-09fc-4e7d-9c0e-7fa8c7934ff2)
+
+![image](https://github.com/user-attachments/assets/bb12f48f-4505-466d-84eb-abc6a45c9be7)
+
+![image](https://github.com/user-attachments/assets/3e684f14-fac8-4be3-89db-6ddd06f4901a)
+
+![image](https://github.com/user-attachments/assets/00786d1c-2db0-4482-8f60-722a73cf1746)
+
+![image](https://github.com/user-attachments/assets/bd3a42c9-7aa3-4e6c-8762-8446e9545817)
+
+![image](https://github.com/user-attachments/assets/deae73e2-99c5-4193-8c96-8dbeb6df9388)
+
+![image](https://github.com/user-attachments/assets/3287284f-7fe4-4f84-8299-f5cda314f294)
+
+![image](https://github.com/user-attachments/assets/d5bf08ea-6270-4bb6-a43f-1d3b7556b9fe)
+
+
+
+
