@@ -1,1 +1,18 @@
-#Women Employment Website
+# Women Employment Website
+# Inspiration
+Providing women with a platform where they can describe their skills and get an opportunity to get employed on a self-basis. This will give them wide exposure to the outside world and a great chance to get employed based on their skills.even housewives and small business women can also get some opportunity to get employed. It will also give entrepreneurs and start-ups a chance to hire employees based upon their skills and a great women employment opportunity.
+
+# What it does
+Our website helps less privileged women overcome their difficulties and earn a living. It is our duty as the millennial generation to give back to society. We provide opportunities to both women who want to get hired(employees) and those who want to hire(employers). We believe that in today's world, every woman must be self-independent and live her life with self-respect and dignity. Hence, we provide a safe and secure environment to women so that they take up a variety of jobs or run a business. Also, we focus on the local market mainly to give priority to these women rather than focusing on highly skilled labour. We givewomen a chance to work according to their choices and makes them independent. Our motto is to make women stand on their own feet and make the self-reliant/self-subsisting.
+
+# How we built it
+Our project is web based. We have created a website which will be user friendly and highly interactive to use. It will provide a platform to enter personal details of the women who needs employment and what kind of job they are looking for. The site will also allow them to enter their skills (professional or unprofessional) and will provide them with the suggestions of the work they are looking for. Also the one who needs employees can go through the profiles on the site and can shortlist accordingly. Thus this website will be a grate platform for job seekers and job providers as well. Technologies we will be using,  Front-end we have developed using html, CSS, JS, bootstrap will be used.  For backend, database and integration we have used Firebase as a soul element of our project.
+
+# Challenges we ran into
+The main struggle while working on the project was the lack of content. Since our idea is new for the industry we are targeting it was very difficult to find appropriate sources. Also because, there is no project related to our idea other than Indian Government schemes. This was our biggest challenge to make this project a success.
+
+# Accomplishments that we're proud of
+No website like this is present in the market in today’s scenario according to our research, it is a plus point for us. It is simple yet a powerful idea to execute. Still today in our country women are not given appropriate respect for their choices and are not allowed to make their own choices, especially in rural India. And are dependent on their families. In this case, our website gives them a chance to work according to their choices and makes them independent. Our motto is to make women stand on their own feet and make the self-reliant/self-subsisting. This is not a commercial project but a helping hand for Indian women who have great potential.
+
+# What's next for Aarambhika - A platform for women to restart their career.
+Our target is to reach out to all women country wide irrespective of the language barrier. So in future we would surely like to convert our project in all possible regional languages so every women can use it. We also want to provide free courses to women so that using those courses women can get professionalemployement and a chance to learn new skills irrespective of their education and age. Thus this is our main motive to make every women stand on their own feet and get employed.
