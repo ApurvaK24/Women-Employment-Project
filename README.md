@@ -17,7 +17,7 @@ No website like this is present in the market in today’s scenario according to
 # What's next for Aarambhika - A platform for women to restart their career.
 Our target is to reach out to all women country wide irrespective of the language barrier. So in future we would surely like to convert our project in all possible regional languages so every women can use it. We also want to provide free courses to women so that using those courses women can get professionalemployement and a chance to learn new skills irrespective of their education and age. Thus this is our main motive to make every women stand on their own feet and get employed.
 
-#Snippets
+# Snippets
 ![image](https://github.com/user-attachments/assets/384269a1-1bfa-4061-9016-c606180078dc)
 
 ![image](https://github.com/user-attachments/assets/a175a2a6-38fe-4edb-8431-38f0d92e5eb1)
